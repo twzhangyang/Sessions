@@ -36,8 +36,6 @@ namespace Sessions.AspNetCore.HelloWorld
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
-
             app.UseRouting();
 
             app.UseAuthorization();
