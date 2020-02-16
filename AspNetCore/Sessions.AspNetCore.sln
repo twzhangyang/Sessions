@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessions.AspNetCore.Depende
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessions.AspNetCore.Swagger", "Sessions.AspNetCore.Swagger\Sessions.AspNetCore.Swagger.csproj", "{421B8054-8EDA-42EB-A5F7-1B39B8D9ED23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessions.AspNetCore.SecurityHeaders", "Sessions.AspNetCore.SecurityHeaders\Sessions.AspNetCore.SecurityHeaders.csproj", "{EDE805B8-EF53-4922-A1EF-63DE69E93014}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{421B8054-8EDA-42EB-A5F7-1B39B8D9ED23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421B8054-8EDA-42EB-A5F7-1B39B8D9ED23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421B8054-8EDA-42EB-A5F7-1B39B8D9ED23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE805B8-EF53-4922-A1EF-63DE69E93014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE805B8-EF53-4922-A1EF-63DE69E93014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE805B8-EF53-4922-A1EF-63DE69E93014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE805B8-EF53-4922-A1EF-63DE69E93014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
